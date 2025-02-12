@@ -10,18 +10,18 @@ global.location = "Pakistan, Sialkot, Lahore" //ur location
 
 //new
 global.botname = 'ᴄʜᴜɢᴜyᴀɴ-ᴍᴅ' //ur bot name
-global.ownernumber = ['919778535328'] //ur owner number, dont add more than one
+global.ownernumber = ['2349033271935'] //ur owner number, dont add more than one
 global.ownername = 'ᴄʜyɢɪyᴀɴ-ᴍᴅ' //ur owner name
-global.websitex = "https://wa.me/+919778535328?text=𝐇𝐄𝐘💗🫴🏻/@chugiyanser"
-global.wagc = "https://wa.me/+919778535328?text=𝐇𝐄𝐘💗🫴🏻/@chugiyanser"
+global.websitex = "https://wa.me/+2349033271935?text=𝐇𝐄𝐘💗🫴🏻/@chugiyanser"
+global.wagc = "https://wa.me/+2349033271935?text=𝐇𝐄𝐘💗🫴🏻/@chugiyanser"
 global.themeemoji = '🪀'
 global.wm = "ᴄʜᴜɢɪyᴀɴ Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD15' //script link
 global.packname = "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈"
 global.author = "₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈"
-global.creator = "919778535328@s.whatsapp.net"
+global.creator = "2349033271935@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["919778535328"] // Premium User
+global.premium = ["2349033271935"] // Premium User
 
 //channel id
 global.xchannel = {
